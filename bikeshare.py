@@ -239,7 +239,7 @@ def main():
              break
         else:
             print('Please Enter yes or anything to end the program')
-	#test changes 1 & 2
+	#test changes 1 & 2 for commit
 
 if __name__ == "__main__":
 	main()
