@@ -492,7 +492,7 @@ def main():
 	#test changes 1 & 2 for commit
 	#chnage 2
 	#change 3
-
+# add this line to test commit 1
 if __name__ == "__main__":
 	main()
 >>>>>>> refactoring
