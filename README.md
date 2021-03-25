@@ -4,9 +4,11 @@
 This line is made to test the commit changes in this branch
 This line is made to test the commit changes in this branch2 
 This line is made to test the commit changes in this branch3
-||||||| merged common ancestors
-=======
  ِEdit for test change1
  Edit for test change2
  Edit for test chnage3
+ 
+||||||| merged common ancestors
+=======
+
 >>>>>>> refactoring
