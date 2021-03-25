@@ -143,6 +143,8 @@ def station_stats(df):
 
 #Editing comments for test 1
 #Editing comments for test 2
+#Editing comments for test 3
+
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
